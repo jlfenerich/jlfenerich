@@ -1,5 +1,20 @@
 ### About.ME 
 
+<div style="display: flex; align-items: center;">
+  <img src="https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-alternativa-RGB.png" alt="PUC-SP" width="100">
+  <p style="margin-left: 20px;"><b>Pontíficia Universidade Católica, São Paulo-SP, Brazil</b> | <i>Bachelor's degree</i> in Economic Sciences | 2008-2015</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://concursospublicos2021.com.br/wp-content/uploads/2021/05/fgv.png" alt="FGV" width="100" height="55">
+  <p style="margin-left: 35px;"><b>Fundação Getúlio Vargas, São Paulo-SP, Brazil</b> | <i>Extension Course</i>, Programming in Python, R and MATLAB | 2019-2019</p>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://bsp.edu.br/app/themes/mobister/dist/images/logo.png" alt="BSP" width="100">
+  <p style="margin-left: 20px;"><b>Business School São Paulo, São Paulo-SP, Brazil</b> | <i>Certificate</i>, in Finance | 2019-2019</p>
+</div>
 
 
 <h6>Academic Platforms and Publishing:</h6>
