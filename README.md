@@ -1,5 +1,7 @@
 ### About.ME 
 
+<iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfenerich&theme=dark" width="450" height="300" frameBorder="0"></iframe>
+
 <div style="display: flex; align-items: center;">
   <img src="https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-alternativa-RGB.png" alt="PUC-SP" width="100">
   <p style="margin-left: 20px;"><b>Pontíficia Universidade Católica, São Paulo-SP, Brazil</b> | <i>Bachelor's degree</i> in Economic Sciences | 2008-2015</p>
