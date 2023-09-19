@@ -3,6 +3,7 @@
 
 <div style="width: 100%; height: 1px; background-color: #ccc; margin-top: 50px;"></div>
 
+
 <h6>Academic Platforms and Publishing:</h6>
 <a href="https://pucsp.academia.edu/Jo%C3%A3oFenerich" target="_blank">
     <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" alt="Academia Logo">
@@ -30,7 +31,22 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Logo">
 </a>
 
+<h6>Freelancer Platforms:</h6>
+<a href="https://www.freelancer.com/u/jlfenerich?frm=jlfenerich&sb=t" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Logo">
+</a>
+<a href="https://www.upwork.com/freelancers/~01cc5629d9a3ef012b?viewMode=1" target="_blank">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Logo">
+</a>
+<a href="https://br.fiverr.com/jlfenerich" target="_blank">
+    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Logo">
+</a>
+
 <h6>Professional Networks:</h6>
 <a href="https://linkedin.com/in/jlafenerich" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
 </a>
+<a href="https://profile.indeed.com/p/joof-52l2jz0" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" alt="Indeed">
+</a>
+
