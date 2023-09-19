@@ -1,9 +1,6 @@
 ### About.ME 
 
 
-<iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfenerich&theme=dark" width="450" height="300" frameBorder="0"></iframe>
-
-
 <div style="width: 100%; height: 1px; background-color: #ccc; margin-top: 50px;"></div>
 
 <h6>Academic Platforms and Publishing:</h6>
