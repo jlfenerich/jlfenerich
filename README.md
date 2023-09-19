@@ -17,6 +17,8 @@
 </div>
 
 
+<div style="width: 100%; height: 1px; background-color: #ccc; margin-top: 50px;"></div>
+
 <h6>Academic Platforms and Publishing:</h6>
 <a href="https://pucsp.academia.edu/Jo%C3%A3oFenerich" target="_blank">
     <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" alt="Academia Logo">
