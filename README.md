@@ -10,7 +10,7 @@ With a strong foundation in economics and a keen interest in analytics, ETL proc
     <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" alt="Academia Logo">
 </a>
 <a href="http://lattes.cnpq.br/5846639736229202" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian Logo">
 </a>
 <a href="https://medium.com/@jlfenerich" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">
