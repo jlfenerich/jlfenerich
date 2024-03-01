@@ -2,6 +2,8 @@
 
 With a strong foundation in economics and a keen interest in analytics, ETL processes, and data-driven decisions, I am transitioning into data analysis. My 5 years of experience in research and analysis, complemented by skills in Python and SQL, have given me a unique ability to identify metrics and KPIs in large data sets. Working with renowned companies such as Banco Itaú and Cisa Trading, I have grasped the essence of data analytics-driven decisions in the corporate world. Additionally, I am familiar with tools like GitHub, Excel, Tableau, and ETL workflows. I have 4 publications, including one in the "Desenvolvimento em Questão" journal. In my free time, I explore diverse areas that expand my perspective on data visualization and analysis.
 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlfenerich&theme=blue-green)](https://github.com/jlfenerich/github-readme-stats)
+
 <div style="width: 100%; height: 1px; background-color: #ccc; margin-top: 50px;"></div>
 
 
